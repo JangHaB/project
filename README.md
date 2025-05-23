@@ -37,4 +37,4 @@
 ## 실행 방법
 
 ```bash
-python taxi_simulation.py
+python samplecode.py
